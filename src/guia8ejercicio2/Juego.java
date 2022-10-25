@@ -15,6 +15,7 @@ public class Juego {
         this.jugadores = new ArrayList();
     }
 
+    
     //METODOS
     public void llenarJuego() {//1
         Scanner leer = new Scanner(System.in);

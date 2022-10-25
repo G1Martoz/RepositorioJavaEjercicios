@@ -37,6 +37,7 @@ public class Jugador {
         this.mojado = mojado;
     }
 
+    
     //METODO
     public boolean disparoRevolver(Revolver r) {
         boolean mojadazo;

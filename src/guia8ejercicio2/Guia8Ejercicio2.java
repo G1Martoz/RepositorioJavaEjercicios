@@ -5,5 +5,6 @@ public class Guia8Ejercicio2 {
        Juego game = new Juego();
        game.llenarJuego();
        game.ronda();
+       
     }
 }
