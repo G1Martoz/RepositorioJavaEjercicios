@@ -40,6 +40,7 @@ public class Revolver {
         this.setPosicionAgua(aux.intValue());
     }
 
+    
     public boolean mojar() {
         //si posicion actual coincide con posicion de agua es true
         if (this.posicionAgua == this.posicionActual) {
